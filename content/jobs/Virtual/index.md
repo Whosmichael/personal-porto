@@ -1,11 +1,11 @@
 ---
+
 date: '2020-07-01'
 title: 'Virtual Internship Experience'
 company: 'Forage'
 location: remote
 range: 'July 2020 - May 2021'
 url: 'https://www.theforage.com/'
----
 
 - Microsoft - Engineering Virtual Experience [CERTIFICATE](https://insidesherpa.s3.amazonaws.com/completion-certificates/Microsoft/ms2CK9b2SCWGXwPMS_Microsoft_nXPiDeZbPmvKvvjHA_completion_certificate.pdf)
 - Deloitte - Technology Consulting Virtual Internship [CERTIFICATE](https://insidesherpa.s3.amazonaws.com/completion-certificates/Deloitte/FqFtWwQzNxJ8Qsh5H_Deloitte_nXPiDeZbPmvKvvjHA_completion_certificate.pdf)

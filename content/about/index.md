@@ -1,22 +1,19 @@
 ---
 title: 'About Me'
-avatar: 'me.jpg'
+avatar: 'Photo on 06-05-24 at 02.12 #2.jpg'
 skills:
   - Coding
   - Reading
-  - Painting
-  - Crafting
-  - Problem Solving
-  - Team Management
-  - Mentoring
+  - Music
+  - Consulting
+  - Project Management
+  - Product Design
 ---
 
-Hello! I'm Yashita Namdeo, from Indore, also known as Mini Mumbai and the Cleanest City of India.
+My name is Michael Baptiswa Marully. I'm a penultimate year student majoring in information systems.
 
-I am a creative, time punctual, dedicated, goal-oriented individual with decent moral Values and Ethicates along with a high-energy level, honed communication skills, strong organizational skills, and meticulous attention to detail.
+Highly motivated and eager to learn new skills, specifically on product management, business analysis, and data analysis.
 
-I am pursuing my Bachelors from [SVVV, Indore](https://www.svvv.edu.in/) in Computer Science and Engineering (2018-2022) my current GPA is [3.7]() out of 4.
+Through some competition that I took part in, I got a lot of insights and knowledge on business and product design.
 
-I am a member of [Developer Student Club - SVVV](https://dsc.community.dev/shri-vaishnav-vidyapeeth-vishwavidyalaya/) and have also been awarded 75% Merit Scholarship(Top 10%) by my college.
-
-Here are a few of the other activities that I love to do!
+Here are a few of my interests!

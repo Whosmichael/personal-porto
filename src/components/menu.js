@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 import { navLinks } from '@config';
 import styled from 'styled-components';
 import { theme, mixins, media } from '@styles';
-const { colors, fontSizes, fonts } = theme;
+const { colors, fonts } = theme;
 
 const StyledContainer = styled.div`
   position: fixed;
@@ -50,24 +50,6 @@ const NavList = styled.ol`
   list-style: none;
   width: 100%;
 `;
-const NavListItem = styled.li`
-  margin: 0 auto 20px;
-  position: relative;
-  font-size: ${fontSizes.lg};
-  counter-increment: item 1;
-  ${media.thone`
-    margin: 0 auto 10px;
-    font-size: ${fontSizes.md};
-  `};
-  ${media.tiny`font-size: ${fontSizes.smish};`};
-  &:before {
-    display: block;
-    content: '0' counter(item) '.';
-    color: ${colors.green};
-    font-size: ${fontSizes.sm};
-    margin-bottom: 5px;
-  }
-`;
 const NavLink = styled(Link)`
   ${mixins.link};
   padding: 3px 20px 20px;
@@ -102,9 +84,11 @@ const Menu = ({ menuOpen, toggleMenu }) => {
           <NavList>
             {navLinks &&
               navLinks.map(({ url, name }, i) => (
-                <NavListItem key={i}>
+                <li key={i}>
+                  {' '}
+                  {/* Adding key here */}
                   <NavLink to={url}>{name}</NavLink>
-                </NavListItem>
+                </li>
               ))}
           </NavList>
           <ResumeLink href="/resume.pdf" target="_blank" rel="nofollow noopener noreferrer">

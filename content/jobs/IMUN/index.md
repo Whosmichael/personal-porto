@@ -1,13 +1,13 @@
 ---
-date: '2021-06-11'
-title: 'Campus Ambassador Intern'
-company: 'International MUN (IMUN)'
+date: '2023-08-11'
+title: 'Front End Engineer'
+company: 'Rx Labs'
 location: remote
-range: 'June 2021 - July 2021'
-url: 'https://www.internationalmun.org/'
+range: 'August 2023 - November 2023'
+url: 'https://www.linkedin.com/company/roomx-labs/'
 ---
 
-- Promoted IMUN Online Conferences in different schools/universities and got 10+ registrations.
-- Informed how MUNs enhance - Negotiation, Diplomacy, Leadership, etc.
-- Achieved Brand Ambassador title for increasing the sales of the organization by 10% and creating brand presence.
-- View [OFFER LETTER](https://drive.google.com/file/d/1q-rr54_-9znx-m1PvEDTYkbu5yGy0miK/view?usp=sharing)
+- Worked closely with project managers and backend developers to deliver responsive, feature-rich web applications.
+- Optimizing website SEO using google lighthouse
+- Implemented responsive design principles and mobile-first development techniques to improve the mobile user experience.
+- Utilized Git for version control, managing codebase changes and collaborating with the development team effectively.

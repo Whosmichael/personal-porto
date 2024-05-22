@@ -1,34 +1,33 @@
 module.exports = {
-  siteTitle: 'Yashita Namdeo',
-  siteDescription:
-    'Yashita Namdeo is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
+  siteTitle: 'Michael Baptiswa',
+  siteDescription: 'Michael Baptiswa, An Aspiring Data Analyst and Product Developer ',
   siteKeywords:
-    'Yashita Namdeo, Yashita, Namdeo, yashitanamdeo, software engineer, web developer, javascript, python, java, svvv, indore',
-  siteUrl: 'https://yashitanamdeo.github.io/',
+    'Michael Baptiswa, Baptiswa Michael, Michael, Baptiswa, Data Analyst, Product Developer, Data Science, Machine Learning, Python, R, SQL, Data Visualization, Data Analysis, Data Cleaning, Data Wrangling, Data Engineering, Data Mining, Data Modelling',
+  siteUrl: 'https://michaelbaptiswa.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Yashita Namdeo',
-  location: 'Indore, India',
-  email: 'yashita.namdeo2000@gmail.com',
-  github: 'https://github.com/yashitanamdeo',
+  name: 'Michael Baptiswa',
+  location: 'Jakarta, Indonesia',
+  email: 'baptiswamichael@gmail.com',
+  github: 'https://github.com/Whosmichael',
   twitterHandle: '@',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/yashitanamdeo',
+      url: 'https://github.com/Whosmichael',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/yashitanamdeo/',
+      url: 'https://www.linkedin.com/in/michael-baptiswa-marully-pangaribuan-6600b31a0/',
     },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/yashitanamdeo',
-    },
+    // {
+    //   name: 'Codepen',
+    //   url: 'https://codepen.io/',
+    // },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/yashitanamdeo',
+      url: 'https://www.instagram.com/michaelmarully/',
     },
     {
       name: 'Twitter',
